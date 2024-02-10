@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>3209b9e3-15ed-4354-a537-968664e229a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dswbm-sliders-26847']/ul/li/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Showpieces &amp; Figurines&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a3e8a300-c79b-4baf-917f-23f3e0afb915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://craferia.com/wp-content/uploads/2023/09/showpiece_figurine_img.png?v=1701777601</value>
+      <webElementGuid>28905a76-9010-4dfd-b658-e45de09d5f7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Showpieces &amp; Figurines</value>
+      <webElementGuid>ca48819f-bd22-40f5-9e50-8d4d5c595a48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dswbm-sliders-26847&quot;)/ul[@class=&quot;wbm-slider&quot;]/li[@class=&quot;term-list&quot;]/div[@class=&quot;term-img&quot;]/a[1]/img[1]</value>
+      <webElementGuid>6b07a80f-d3d0-407c-8549-57d320249474</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dswbm-sliders-26847']/ul/li/div/a/img</value>
+      <webElementGuid>04565fc5-497c-450d-9239-c46b89682a54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Showpieces &amp; Figurines']</value>
+      <webElementGuid>56cca204-860e-4bee-a0ef-820f5ceac85e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/a/img</value>
+      <webElementGuid>43950b0a-32be-4781-bbd8-bb738c4680fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://craferia.com/wp-content/uploads/2023/09/showpiece_figurine_img.png?v=1701777601' and @alt = 'Showpieces &amp; Figurines']</value>
+      <webElementGuid>337e44ce-f349-4972-b2a7-35a0c3c3e1cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Useful Links</name>
+   <tag></tag>
+   <elementGuidId>40a7a5f8-0816-43b3-b773-04cf75a5bc28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-12']/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#block-12 > h2.wp-block-heading</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>bdfee474-2e61-4f0f-93b5-960936be8e32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wp-block-heading</value>
+      <webElementGuid>2c9b2afd-29ce-411c-857b-b8d84386f083</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Useful Links</value>
+      <webElementGuid>c0e61484-d95e-4c5f-b31c-2b070c11ea29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-12&quot;)/h2[@class=&quot;wp-block-heading&quot;]</value>
+      <webElementGuid>6b998a6f-0e32-4d14-b778-e7a65618614a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-12']/h2</value>
+      <webElementGuid>c2df47a9-d28c-402a-91c6-2f668c0f6149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/h2</value>
+      <webElementGuid>7ec1af1a-d9b0-4bfa-898b-61f4e7af1b29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Useful Links' or . = 'Useful Links')]</value>
+      <webElementGuid>b296a325-2e85-4700-bd8f-2961898a914e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bamboo Shelf  Rack</name>
+   <tag></tag>
+   <elementGuidId>d8a298fc-fb46-4525-b2b1-7fac556ddd1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-26665']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-26665 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d3b141db-ea11-4d22-a663-aa6b57fad3d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://craferia.com/bamboo-shelf-rack/</value>
+      <webElementGuid>abd344ee-fd83-4432-baff-bc115f893208</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bamboo Shelf / Rack</value>
+      <webElementGuid>711b44fe-10a8-49c8-870f-b12ed744e606</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-26665&quot;)/a[1]</value>
+      <webElementGuid>66bd7e49-dc94-4a71-877d-0be2a3fa1592</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-26665']/a</value>
+      <webElementGuid>4f0e35b2-8758-446f-a9f1-193ff1d339b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Bamboo Shelf / Rack')]</value>
+      <webElementGuid>01ca6221-277d-4e6a-bf98-b29531a56eda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://craferia.com/bamboo-shelf-rack/')]</value>
+      <webElementGuid>a2f36abf-ced3-4276-bb86-16e924ad88d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li/ul/li[4]/a</value>
+      <webElementGuid>8ef7cf99-e7d7-41d1-ba7b-98a422d1f7a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://craferia.com/bamboo-shelf-rack/' and (text() = 'Bamboo Shelf / Rack' or . = 'Bamboo Shelf / Rack')]</value>
+      <webElementGuid>f145dbf1-db84-4762-b368-466cf9ee29b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

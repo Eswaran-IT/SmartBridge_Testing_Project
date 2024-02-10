@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_YouTube</name>
+   <tag></tag>
+   <elementGuidId>ba8dd7f2-9e32-4a1d-b50e-90508fcf0082</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-15']/ul/li[3]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.wp-social-link.wp-social-link-youtube.wp-block-social-link > a.wp-block-social-link-anchor > span.wp-block-social-link-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8574af76-8baf-49d7-8329-8dab7438706f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wp-block-social-link-label</value>
+      <webElementGuid>af15566a-1612-4823-93b2-ce1c360ecc87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>YouTube</value>
+      <webElementGuid>b8443f87-f753-4197-8bb2-d4f9453efbb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-15&quot;)/ul[@class=&quot;wp-block-social-links has-visible-labels is-layout-flex wp-block-social-links-is-layout-flex&quot;]/li[@class=&quot;wp-social-link wp-social-link-youtube  wp-block-social-link&quot;]/a[@class=&quot;wp-block-social-link-anchor&quot;]/span[@class=&quot;wp-block-social-link-label&quot;]</value>
+      <webElementGuid>e94c746b-f3c5-4277-99de-19f04991916d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-15']/ul/li[3]/a/span</value>
+      <webElementGuid>17d74ac6-e611-4607-83db-c29f91de7f68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[3]/a/span</value>
+      <webElementGuid>ddfac74a-047b-4fcb-9fac-cbb6c75009b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'YouTube' or . = 'YouTube')]</value>
+      <webElementGuid>e81dacb7-4cb2-4776-a29b-e631eaf5f767</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

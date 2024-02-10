@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lost your password</name>
+   <tag></tag>
+   <elementGuidId>688ed185-c309-4c9e-baf8-13fda381bf07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-9']/div/div/form/p[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.woocommerce-LostPassword.lost_password > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fe6b753f-e9f4-42e5-8602-f6f1746174fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://craferia.com/my-account/lost-password/</value>
+      <webElementGuid>7cc053d4-4c0e-4768-88df-8f223a2390fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lost your password?</value>
+      <webElementGuid>745adbe2-b76c-4496-a7bb-e789e2b2c161</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-9&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/form[@class=&quot;woocommerce-form woocommerce-form-login login&quot;]/p[@class=&quot;woocommerce-LostPassword lost_password&quot;]/a[1]</value>
+      <webElementGuid>5a062fa4-361f-4551-8434-b6f16c580fc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-9']/div/div/form/p[4]/a</value>
+      <webElementGuid>a534429f-15c5-4582-acc7-afc4c361d7cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lost your password?')]</value>
+      <webElementGuid>af6972c6-ee32-40ca-9293-0114ad0166f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://craferia.com/my-account/lost-password/')]</value>
+      <webElementGuid>6349db88-b98f-4496-afe1-abd274d6d689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[4]/a</value>
+      <webElementGuid>71c545e0-c800-4299-8797-52cde0f9c3b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://craferia.com/my-account/lost-password/' and (text() = 'Lost your password?' or . = 'Lost your password?')]</value>
+      <webElementGuid>9b6d6716-9ba8-4090-b602-11919c869ed4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

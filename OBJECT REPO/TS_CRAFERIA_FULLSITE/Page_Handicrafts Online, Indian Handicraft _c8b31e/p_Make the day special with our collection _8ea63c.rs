@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Make the day special with our collection _8ea63c</name>
+   <tag></tag>
+   <elementGuidId>46867b53-e7e6-41d6-8f91-8cdc28b6f488</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/header/div/div[13]/div/p[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>999df1b1-fa8b-4edb-a3c8-9dcb706e57a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>has-black-color has-text-color</value>
+      <webElementGuid>37daf74c-3942-4cb9-bc4f-4b9c8909a161</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Make the day special with our collection of discounted products.</value>
+      <webElementGuid>e847da2a-9233-4268-9c30-f76ceb4a6aae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;woocommerce-products-header&quot;]/div[@class=&quot;page-description&quot;]/div[@class=&quot;wp-block-columns alignwide has-background is-layout-flex wp-container-core-columns-layout-8 wp-block-columns-is-layout-flex&quot;]/div[@class=&quot;wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow&quot;]/p[@class=&quot;has-black-color has-text-color&quot;]</value>
+      <webElementGuid>48385086-59e9-49fc-8127-9f1291d836e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/header/div/div[13]/div/p[3]</value>
+      <webElementGuid>e818b8be-096e-4d69-aac6-150d92cd6feb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/p[3]</value>
+      <webElementGuid>21a9819c-66b2-4b5b-9443-32df4002e3cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Make the day special with our collection of discounted products.' or . = 'Make the day special with our collection of discounted products.')]</value>
+      <webElementGuid>76dc1bf6-2c9d-47e7-b179-bfdb9d4ba1b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Outdoor Furniture</name>
+   <tag></tag>
+   <elementGuidId>81eb94c7-07f3-4070-a49f-62115ba1b215</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/header/div/h2/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.wp-block-heading.has-text-align-center > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c830632b-f5b5-447a-a6cc-ffd79402e34a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://craferia.com/outdoor-furniture/</value>
+      <webElementGuid>a83f52fe-b267-46e8-a12e-d175df1a177a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Outdoor Furniture</value>
+      <webElementGuid>0c3b4215-d4fb-4e3a-9e40-892f7e1c9820</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;woocommerce-products-header&quot;]/div[@class=&quot;page-description&quot;]/h2[@class=&quot;wp-block-heading has-text-align-center&quot;]/a[1]</value>
+      <webElementGuid>908d2af3-e7f1-4e44-909a-c4519fe525b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/header/div/h2/a</value>
+      <webElementGuid>86d4f450-f3f1-4cbc-b3bd-2854a99fc252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Outdoor Furniture')])[3]</value>
+      <webElementGuid>f2aff74b-f28f-419e-bce3-f4ab10797cf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://craferia.com/outdoor-furniture/')])[3]</value>
+      <webElementGuid>7dce0782-5187-4320-bb79-c32d7bbc07ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a</value>
+      <webElementGuid>786a8824-f45e-49d9-b56a-885f825f9cf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://craferia.com/outdoor-furniture/' and (text() = 'Outdoor Furniture' or . = 'Outdoor Furniture')]</value>
+      <webElementGuid>19e9d582-cd8d-42c2-9540-1baa1ea9946c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

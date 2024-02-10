@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>em_Bamboo Chairs Table stools</name>
+   <tag></tag>
+   <elementGuidId>09e3f3f8-9436-4063-8c82-3a149a58cb2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/header/div/div[8]/div/p/strong/em</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>em</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>dfa2bd4f-47e7-4fb3-bd9d-be88421e3258</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bamboo Chairs Table stools</value>
+      <webElementGuid>26b39353-4844-4578-853a-c2e1189f4b9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;woocommerce-products-header&quot;]/div[@class=&quot;page-description&quot;]/div[@class=&quot;wp-block-cover alignwide is-light&quot;]/div[@class=&quot;wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow&quot;]/p[@class=&quot;has-text-align-center has-white-color has-text-color has-huge-font-size&quot;]/strong[1]/em[1]</value>
+      <webElementGuid>0d1a3db9-3e31-44ef-9c0c-56a7917e5ae3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/header/div/div[8]/div/p/strong/em</value>
+      <webElementGuid>fdf62b00-a9a5-4081-93fc-eb0e10c13e61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//em</value>
+      <webElementGuid>adde293a-c473-406d-887d-a563c779a4d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//em[(text() = 'Bamboo Chairs Table stools' or . = 'Bamboo Chairs Table stools')]</value>
+      <webElementGuid>715e9112-4edb-4da6-b31c-a27ba14e9404</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

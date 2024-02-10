@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_fa fa-angle-right_1</name>
+   <tag></tag>
+   <elementGuidId>07eddeec-9a4b-444c-a862-c64e1f4650cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dswbm-sliders-28182']/div[2]/div[2]/div/a[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dswbm-sliders-28182 > div.bx-wrapper > div.bx-controls.bx-has-controls-direction > div.bx-controls-direction > a.bx-next > i.fa.fa-angle-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ab4e551b-2aab-4329-8b22-05f2bd2e34d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-angle-right</value>
+      <webElementGuid>29c07a80-f581-4ac5-8883-08ac43afbaee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dswbm-sliders-28182&quot;)/div[@class=&quot;bx-wrapper&quot;]/div[@class=&quot;bx-controls bx-has-controls-direction&quot;]/div[@class=&quot;bx-controls-direction&quot;]/a[@class=&quot;bx-next&quot;]/i[@class=&quot;fa fa-angle-right&quot;]</value>
+      <webElementGuid>679e6be5-c7c2-4996-a466-57331fbc0201</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dswbm-sliders-28182']/div[2]/div[2]/div/a[2]/i</value>
+      <webElementGuid>5a584a1f-aebb-4ef6-a388-4db3d4e19d74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[2]/div/a[2]/i</value>
+      <webElementGuid>ed0707b0-b4cf-49bd-9374-85ade00b6123</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

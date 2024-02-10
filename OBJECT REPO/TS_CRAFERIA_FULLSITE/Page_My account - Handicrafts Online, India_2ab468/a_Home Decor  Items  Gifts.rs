@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Home Decor  Items  Gifts</name>
+   <tag></tag>
+   <elementGuidId>28de3fa9-31c3-4f09-8eab-070d870d870b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-26677']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-26677 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3adc1a6e-34b9-4694-b207-976befe88a25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://craferia.com/home-decor/</value>
+      <webElementGuid>2d6802f0-39da-4917-9f77-e83ea223d9e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home Decor – Items &amp; Gifts</value>
+      <webElementGuid>238cc07c-e1f1-4f00-9e98-71c37448415b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-26677&quot;)/a[1]</value>
+      <webElementGuid>52e5091d-cff1-4dea-90a9-f317cfc2ade1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-26677']/a</value>
+      <webElementGuid>1e7e207c-f447-46ae-bcd5-3b1e5c27fc4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Home Decor – Items &amp; Gifts')]</value>
+      <webElementGuid>691b9a3c-84b4-40c0-b71a-5009ba706764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://craferia.com/home-decor/')]</value>
+      <webElementGuid>4e7013e3-99e9-4053-b321-4453405879f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/nav/div/ul/li/a</value>
+      <webElementGuid>3e373acc-e059-49a8-adc0-646d8091832d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://craferia.com/home-decor/' and (text() = 'Home Decor – Items &amp; Gifts' or . = 'Home Decor – Items &amp; Gifts')]</value>
+      <webElementGuid>cbba3e9d-82fd-4d91-88e6-44eeacefdcf6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Select options</name>
+   <tag></tag>
+   <elementGuidId>8d0d07f2-6dcc-47b9-8711-c0dfda0d5227</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/ul/li[2]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.product.type-product.post-5154.status-publish.instock.product_cat-sling-bags.has-post-thumbnail.taxable.shipping-taxable.purchasable.product-type-variable > a.button.product_type_variable.add_to_cart_button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f70729cb-2326-4e7b-8f10-4d2ec1944dc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://craferia.com/beautiful-sling-handy-handbags-with-printed-design/</value>
+      <webElementGuid>a7b00d7c-5161-4008-902c-b6727aa0e3fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-quantity</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>af2fb662-666b-4aea-b56a-7f77dc851125</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button product_type_variable add_to_cart_button</value>
+      <webElementGuid>719f602c-88f4-4fee-aeec-415878952836</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-product_id</name>
+      <type>Main</type>
+      <value>5154</value>
+      <webElementGuid>d7691466-b019-4d47-a85b-6df186ba6693</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-product_sku</name>
+      <type>Main</type>
+      <value>HB-617</value>
+      <webElementGuid>b8fe8daa-d96e-4823-b28f-14d0fd970597</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Select options for “Beautiful sling handy handbags with printed design”</value>
+      <webElementGuid>39304427-965c-41fe-988c-9f1d20f2dab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>This product has multiple variants. The options may be chosen on the product page</value>
+      <webElementGuid>9d955ea8-c6cd-4f67-981d-98eaafe7703a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>c6c8babc-d097-45d2-b0cd-770833db5af2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select options</value>
+      <webElementGuid>453fbc78-7dfb-4626-92b7-c06a46db7349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/ul[@class=&quot;products columns-4&quot;]/li[@class=&quot;product type-product post-5154 status-publish instock product_cat-sling-bags has-post-thumbnail taxable shipping-taxable purchasable product-type-variable&quot;]/a[@class=&quot;button product_type_variable add_to_cart_button&quot;]</value>
+      <webElementGuid>7ce7de48-702c-4778-bbf8-94e3097558e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/ul/li[2]/a[2]</value>
+      <webElementGuid>665db900-0fdd-49ce-85e2-12610c095068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Select options')])[2]</value>
+      <webElementGuid>b12dd74b-9a27-485c-9f8b-8258998fc2c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://craferia.com/beautiful-sling-handy-handbags-with-printed-design/')])[2]</value>
+      <webElementGuid>e31027bf-974a-49d8-a11c-150218773f73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a[2]</value>
+      <webElementGuid>9bb50a3d-5d0d-4e82-8139-ceeb23f1f391</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://craferia.com/beautiful-sling-handy-handbags-with-printed-design/' and (text() = 'Select options' or . = 'Select options')]</value>
+      <webElementGuid>3d58df90-aeaa-462d-8643-191fbed63063</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

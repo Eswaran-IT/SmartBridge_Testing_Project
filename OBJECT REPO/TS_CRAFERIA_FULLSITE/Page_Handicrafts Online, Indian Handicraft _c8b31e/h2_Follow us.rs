@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Follow us</name>
+   <tag></tag>
+   <elementGuidId>62f2ca3b-4334-43e0-b392-08c57f64faa6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-14']/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#block-14 > h2.wp-block-heading</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>c3d65e34-12f0-4e53-bee3-3a6b8c682611</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wp-block-heading</value>
+      <webElementGuid>3995e5bb-3e7f-466c-b33c-2885e8473956</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Follow us</value>
+      <webElementGuid>6f5dec6d-88ba-4ba5-ad80-9bf277d43659</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-14&quot;)/h2[@class=&quot;wp-block-heading&quot;]</value>
+      <webElementGuid>f9dfe9c9-9544-4265-af31-f006c29f2368</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-14']/h2</value>
+      <webElementGuid>187b1fde-9ecb-46fc-8ac0-2021610becdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/h2</value>
+      <webElementGuid>3e331862-5c2b-4fda-ab71-38644e9fc366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Follow us' or . = 'Follow us')]</value>
+      <webElementGuid>85a1c166-d28d-4850-ab14-2826398c4cd7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

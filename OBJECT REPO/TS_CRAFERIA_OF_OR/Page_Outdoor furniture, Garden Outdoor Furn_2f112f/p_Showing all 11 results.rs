@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Showing all 11 results</name>
+   <tag></tag>
+   <elementGuidId>f3536556-62ed-48d3-aacf-498e68f1928c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.woocommerce-result-count</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>2f121505-64bb-46bc-8b47-685a41fbc813</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-result-count</value>
+      <webElementGuid>c165ef97-0778-460b-81bb-01e4fa7c7721</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	Showing all 11 results</value>
+      <webElementGuid>831a63bf-e3aa-449e-88ad-30658dbbe9c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;storefront-sorting&quot;]/p[@class=&quot;woocommerce-result-count&quot;]</value>
+      <webElementGuid>aef30a33-1e98-41b4-8570-03508bd861b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/p</value>
+      <webElementGuid>0ba03a09-49eb-40b8-bf77-0dc0ddcbe555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/p</value>
+      <webElementGuid>8b6c22ef-ee99-4fa4-b7d3-79ee466fbe48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '
+	Showing all 11 results' or . = '
+	Showing all 11 results')]</value>
+      <webElementGuid>6902e932-ba2d-46d7-85ce-6eca3b83ff0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

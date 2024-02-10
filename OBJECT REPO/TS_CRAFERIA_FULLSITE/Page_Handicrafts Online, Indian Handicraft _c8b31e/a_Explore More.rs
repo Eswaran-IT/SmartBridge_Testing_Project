@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Explore More</name>
+   <tag></tag>
+   <elementGuidId>9a1881e2-2765-432f-81a5-37874184eada</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/header/div/div[13]/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.wp-block-button.has-custom-font-size.is-style-fill > a.wp-block-button__link.has-white-color.has-text-color.has-background.has-text-align-center.wp-element-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>41f31c5f-3ca7-49f8-b95d-1e6597701d75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wp-block-button__link has-white-color has-text-color has-background has-text-align-center wp-element-button</value>
+      <webElementGuid>c04af2e8-e1be-46bb-9b9a-2ebb0dc17c87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://craferia.com/bamboo-laundry-organizer-baskets/</value>
+      <webElementGuid>6a139696-c96a-4728-87fa-497e9199bf77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Explore More </value>
+      <webElementGuid>5490fbff-ccfc-4917-a76c-d9f5ebf39939</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;woocommerce-products-header&quot;]/div[@class=&quot;page-description&quot;]/div[@class=&quot;wp-block-columns alignwide has-background is-layout-flex wp-container-core-columns-layout-8 wp-block-columns-is-layout-flex&quot;]/div[@class=&quot;wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow&quot;]/div[@class=&quot;wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-layout-12 wp-block-buttons-is-layout-flex&quot;]/div[@class=&quot;wp-block-button has-custom-font-size is-style-fill&quot;]/a[@class=&quot;wp-block-button__link has-white-color has-text-color has-background has-text-align-center wp-element-button&quot;]</value>
+      <webElementGuid>bd8ea671-c797-4cab-85b6-bb87551bb481</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/header/div/div[13]/div/div/div/a</value>
+      <webElementGuid>8111134d-fd30-44c9-82b3-da5cc96b775a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Explore More')])[3]</value>
+      <webElementGuid>7fa41817-6878-452a-b111-d58f7aa7e286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://craferia.com/bamboo-laundry-organizer-baskets/')])[3]</value>
+      <webElementGuid>f4ef5486-21b5-48f6-ba0e-c66c670fa0e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div/div/a</value>
+      <webElementGuid>0577928a-cf97-47d7-8d50-e84528fb2641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://craferia.com/bamboo-laundry-organizer-baskets/' and (text() = ' Explore More ' or . = ' Explore More ')]</value>
+      <webElementGuid>4691fc1d-b647-4cb9-bea4-7bcacad265f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

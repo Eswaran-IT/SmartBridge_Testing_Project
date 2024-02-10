@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Corporate Gifts</name>
+   <tag></tag>
+   <elementGuidId>21a6babd-a587-4a31-8979-134c79baeb17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-13']/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#block-13 > ul > li:nth-of-type(3) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>af6db7e2-4196-4e82-830f-a3485c055f83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.craferia.com/Corporate-Gifts/</value>
+      <webElementGuid>e1b8f835-de60-4f74-b95f-841993e72fcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Corporate Gifts</value>
+      <webElementGuid>3bbe27a5-b03b-4ac3-b537-8b9296a85add</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-13&quot;)/ul[1]/li[3]/a[1]</value>
+      <webElementGuid>c1f14fe1-40d2-4595-b193-684fc81e993d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-13']/ul/li[3]/a</value>
+      <webElementGuid>59ee5a9c-5880-4f80-b47f-56fa2f5e4355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Corporate Gifts')]</value>
+      <webElementGuid>e66a296b-b8b2-4824-80d3-cf45e6a6469f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.craferia.com/Corporate-Gifts/')]</value>
+      <webElementGuid>3f3a03bd-5e66-40b3-8498-2299368185a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/ul/li[3]/a</value>
+      <webElementGuid>e07779e1-1a0f-4c91-9d7a-599d160777e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.craferia.com/Corporate-Gifts/' and (text() = 'Corporate Gifts' or . = 'Corporate Gifts')]</value>
+      <webElementGuid>1edf01b0-6286-4144-a83a-fb8138314546</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

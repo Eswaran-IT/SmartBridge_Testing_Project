@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_wp-block-cover__background has-backgro_5262dc</name>
+   <tag></tag>
+   <elementGuidId>1450fb67-fbfc-4b2c-ad90-465f98256aa5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/header/div/div[5]/div[3]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.wp-block-cover.is-light.has-custom-content-position.is-position-bottom-center.has-base-color.has-text-color > span.wp-block-cover__background.has-background-dim-0.has-background-dim</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>07eb7443-f065-4ef5-b94b-30bc26bf19d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ded2695a-bc64-4526-9256-9278ba3803dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wp-block-cover__background has-background-dim-0 has-background-dim</value>
+      <webElementGuid>48d5a427-02ec-4378-978d-cb97e9632744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;woocommerce-products-header&quot;]/div[@class=&quot;page-description&quot;]/div[@class=&quot;wp-block-columns alignwide is-layout-flex wp-container-core-columns-layout-6 wp-block-columns-is-layout-flex&quot;]/div[@class=&quot;wp-block-column is-layout-flow wp-block-column-is-layout-flow&quot;]/div[@class=&quot;wp-block-cover is-light has-custom-content-position is-position-bottom-center has-base-color has-text-color&quot;]/span[@class=&quot;wp-block-cover__background has-background-dim-0 has-background-dim&quot;]</value>
+      <webElementGuid>cce7dfaa-4854-4da2-b293-ee3fcfa3b86f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/header/div/div[5]/div[3]/div/span</value>
+      <webElementGuid>7dfa4a70-3dbe-4727-a8bd-3909119c831a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/span</value>
+      <webElementGuid>88e86a3f-2f57-4136-b97c-4174124158d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

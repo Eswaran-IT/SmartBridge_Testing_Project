@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Google</name>
+   <tag></tag>
+   <elementGuidId>b9cce553-ec49-4fa1-9708-2b3acb05e3da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-15']/ul/li[4]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.wp-social-link.wp-social-link-google.wp-block-social-link > a.wp-block-social-link-anchor > span.wp-block-social-link-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b87fc517-7da4-4840-81cb-6723ac7b778d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wp-block-social-link-label</value>
+      <webElementGuid>cfef1d82-72e8-4191-bd32-dfa9f4cbfc87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Google</value>
+      <webElementGuid>1f9efbde-1ed8-473f-b815-177ff7969a9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-15&quot;)/ul[@class=&quot;wp-block-social-links has-visible-labels is-layout-flex wp-block-social-links-is-layout-flex&quot;]/li[@class=&quot;wp-social-link wp-social-link-google  wp-block-social-link&quot;]/a[@class=&quot;wp-block-social-link-anchor&quot;]/span[@class=&quot;wp-block-social-link-label&quot;]</value>
+      <webElementGuid>8e28dc0b-3715-410f-8a62-601859d40897</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-15']/ul/li[4]/a/span</value>
+      <webElementGuid>313f86bd-43d7-42d0-b9cc-165a910ba418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/span</value>
+      <webElementGuid>c27df70b-fb4f-45fa-83af-cf480e2ed800</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Google' or . = 'Google')]</value>
+      <webElementGuid>3587d1cf-e7cd-4690-81b8-1e814606780d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

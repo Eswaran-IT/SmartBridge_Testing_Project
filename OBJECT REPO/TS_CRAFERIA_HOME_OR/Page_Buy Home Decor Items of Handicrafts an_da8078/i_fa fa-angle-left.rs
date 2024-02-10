@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_fa fa-angle-left</name>
+   <tag></tag>
+   <elementGuidId>19ee8260-3270-4ccd-88ea-bab0648bd55c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dswbm-sliders-28180']/div[2]/div[2]/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-angle-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a1326dcc-a1fa-4e3e-b671-4a015ef5f43e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-angle-left</value>
+      <webElementGuid>c834dc9a-16cb-42c1-9c99-ed8eaaf3275e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dswbm-sliders-28180&quot;)/div[@class=&quot;bx-wrapper&quot;]/div[@class=&quot;bx-controls bx-has-controls-direction&quot;]/div[@class=&quot;bx-controls-direction&quot;]/a[@class=&quot;bx-prev&quot;]/i[@class=&quot;fa fa-angle-left&quot;]</value>
+      <webElementGuid>c49cb89e-240e-41a9-8a05-6b3ef0f0b314</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dswbm-sliders-28180']/div[2]/div[2]/div/a/i</value>
+      <webElementGuid>271e9810-6e28-4ce1-97d6-cfafb3142cc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>2d1a652c-297a-4f89-b350-76b41d7b610d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

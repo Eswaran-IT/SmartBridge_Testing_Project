@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Under 500</name>
+   <tag></tag>
+   <elementGuidId>97c467ca-658e-44a5-9113-8bad5956143a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-27022']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-27022 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e9ca0504-dd4f-49ed-9f53-626b5a5a1ca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://craferia.com/under-500/</value>
+      <webElementGuid>4dd90451-3663-4be9-9945-998db4ca5334</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Under 500</value>
+      <webElementGuid>ed7b9947-be7a-41e1-b7f8-b4a5b098a97d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-27022&quot;)/a[1]</value>
+      <webElementGuid>f464bf58-9b1d-4cc7-8e38-abf9ed17a10e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-27022']/a</value>
+      <webElementGuid>23579f3b-fe5d-4cce-a8d4-1792f95e30b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Under 500')]</value>
+      <webElementGuid>49bee953-2f56-41ca-89db-c21854da5f14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://craferia.com/under-500/')]</value>
+      <webElementGuid>aa488120-3de4-491c-ae4f-4f3fb8f8bd5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/a</value>
+      <webElementGuid>1dd4c408-f67c-4d9a-90ae-5d975334f831</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://craferia.com/under-500/' and (text() = 'Under 500' or . = 'Under 500')]</value>
+      <webElementGuid>c2a64a37-bad0-4745-931c-fc585cf62c30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

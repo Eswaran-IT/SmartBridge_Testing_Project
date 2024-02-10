@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Instagram</name>
+   <tag></tag>
+   <elementGuidId>fce1216c-4b89-469e-8b43-a0b82baa765b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-15']/ul/li[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.wp-social-link.wp-social-link-instagram.wp-block-social-link > a.wp-block-social-link-anchor > span.wp-block-social-link-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>91a10274-b7ab-4601-a824-13f3ce8eb90f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wp-block-social-link-label</value>
+      <webElementGuid>5382f8e2-c0f3-4b69-aa2e-da0effab9487</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Instagram</value>
+      <webElementGuid>6a0502b6-8c7a-4ca4-9107-be8d9062b3fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-15&quot;)/ul[@class=&quot;wp-block-social-links has-visible-labels is-layout-flex wp-block-social-links-is-layout-flex&quot;]/li[@class=&quot;wp-social-link wp-social-link-instagram  wp-block-social-link&quot;]/a[@class=&quot;wp-block-social-link-anchor&quot;]/span[@class=&quot;wp-block-social-link-label&quot;]</value>
+      <webElementGuid>c5606fbd-f00d-4d6f-9908-39f6d9c54f3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-15']/ul/li[2]/a/span</value>
+      <webElementGuid>7ddfd444-cb05-4080-b996-c1cfe0f7f1b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]/a/span</value>
+      <webElementGuid>f56f5ada-b459-4ea3-bb3d-824c91f25c2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Instagram' or . = 'Instagram')]</value>
+      <webElementGuid>8c86017f-53cd-4a39-9397-738d84ea6fd9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
