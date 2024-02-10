@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Single Bedsheets</name>
+   <tag></tag>
+   <elementGuidId>c1b336b7-fa52-472b-aa1e-f9a03909f89c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-26714']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-26714 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bbf27c38-7a2e-47ef-abd9-86305741b5dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://craferia.com/single-bedsheets/</value>
+      <webElementGuid>486cf0e7-9362-4486-b4fd-587a8ba0065b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Single Bedsheets</value>
+      <webElementGuid>94179d2f-1f6e-414e-97ae-da3c1c634fa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-26714&quot;)/a[1]</value>
+      <webElementGuid>4cc92ce9-2b63-4909-92b8-339ce3f8f229</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-26714']/a</value>
+      <webElementGuid>573e8b19-34f2-4bc8-8ad3-c6c2ddeab1f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Single Bedsheets')]</value>
+      <webElementGuid>1158a2b2-8ae8-4fa2-8d1d-ac75fd1bceb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://craferia.com/single-bedsheets/')]</value>
+      <webElementGuid>af73b757-2f72-46b9-a60f-7224af35aee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/ul/li[3]/ul/li/a</value>
+      <webElementGuid>7d93070a-5f1b-46b0-85fb-7eaf2f261a0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://craferia.com/single-bedsheets/' and (text() = 'Single Bedsheets' or . = 'Single Bedsheets')]</value>
+      <webElementGuid>7da9607c-e868-4689-9c8d-972bdabc5295</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
