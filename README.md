@@ -24,4 +24,4 @@ Katalon Studio is used for creating and managing automated test cases. It provid
 Feel free to contribute to this project by submitting pull requests. For major changes or features, please open an issue first to discuss the changes.
 
 ## Contact
-For any questions or issues, please contact [Your Name](mailto:your.email@example.com).
+For any questions or issues, please contact [Eswaran S](mailto:eswar2003.it@gmail.com).
